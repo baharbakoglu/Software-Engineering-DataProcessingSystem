@@ -1,0 +1,124 @@
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\bin\Debug\BBM487.exe.config
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\bin\Debug\BBM487.exe
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\bin\Debug\BBM487.pdb
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\obj\Debug\BBM487.csprojResolveAssemblyReference.cache
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\obj\Debug\BBM487.OgrenciForm.resources
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\obj\Debug\BBM487.csproj.GenerateResource.Cache
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\obj\Debug\BBM487.exe
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\obj\Debug\BBM487.pdb
+c:\users\haso\documents\visual studio 2013\Projects\BBM487\BBM487\obj\Debug\BBM487.Properties.Resources.resources
+C:\Users\Bahar\Desktop\BBM4871\BBM487\bin\Debug\BBM487.exe.config
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.csprojResolveAssemblyReference.cache
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.DanismanForm.resources
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.formOgrenciMenuler.resources
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.formGiris.resources
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.formOgrenci.resources
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.Properties.Resources.resources
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.csproj.GenerateResource.Cache
+C:\Users\Bahar\Desktop\BBM4871\BBM487\bin\Debug\BBM487.exe
+C:\Users\Bahar\Desktop\BBM4871\BBM487\bin\Debug\BBM487.pdb
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.exe
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.pdb
+C:\Users\Bahar\Desktop\BBM4871\BBM487\obj\Debug\BBM487.FormDanismanMenuler.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\bin\Debug\BBM487.exe.config
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\bin\Debug\BBM487.exe
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\bin\Debug\BBM487.pdb
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.csprojResolveAssemblyReference.cache
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKarne.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciTranskript.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.formDanisman.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanKisisel.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.formOgrenciKisisel.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.formGiris.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.formOgrenci.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.formPersonel.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelKisisel.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.Properties.Resources.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.csproj.GenerateResource.Cache
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.exe
+C:\Users\Bahar\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.pdb
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\bin\Debug\BBM487.exe.config
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.csprojResolveAssemblyReference.cache
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.formKayit.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKarne.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciTranskript.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.formDanisman.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanKisisel.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKisisel.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormGiris.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenci.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonel.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelAkademisyen.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelBolum.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelDers.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelDonem.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelKisisel.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelOgrenci.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.Properties.Resources.resources
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.csproj.GenerateResource.Cache
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\bin\Debug\BBM487.exe
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\bin\Debug\BBM487.pdb
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.exe
+C:\Users\Funda\Desktop\BBM487\BBM487\BBM487\BBM487\obj\Debug\BBM487.pdb
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\bin\Debug\BBM487.exe.config
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.exe
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.pdb
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.csprojResolveAssemblyReference.cache
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKarne.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciTranskript.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.formDanisman.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormDanismanKisisel.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKisisel.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormGiris.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.formOgrenci.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormPersonel.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormPersonelAkademisyen.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormPersonelBolum.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormPersonelDers.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormPersonelDonem.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormPersonelKisisel.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormPersonelOgrenci.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.Properties.Resources.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.csproj.GenerateResource.Cache
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\bin\Debug\BBM487.exe
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\bin\Debug\BBM487.pdb
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormDanismanOgrenciArama.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormDanismanDersListele.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\bin\Debug\BBM487.exe.config
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\bin\Debug\BBM487.exe
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\bin\Debug\BBM487.pdb
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanDersListele.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanDersSecimi.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanlikBilgileri.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanNotGirisi.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanOgrenciArama.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanOgrenciListesi.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKayit.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKarne.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciTranskript.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.formDanisman.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormDanismanKisisel.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKisisel.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormGiris.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.formOgrenci.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonel.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelAkademisyen.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelBolum.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelDers.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelDonem.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelKisisel.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.FormPersonelOgrenci.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.OgrenciNotGiris.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.Properties.Resources.resources
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.csproj.GenerateResource.Cache
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.exe
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.pdb
+C:\Users\Haso\Desktop\BBM487\BBM487\BBM487\obj\Debug\BBM487.csprojResolveAssemblyReference.cache
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormDanismanDersSecimi.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormDanismanlikBilgileri.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormDanismanNotGirisi.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormDanismanOgrenciListesi.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.FormOgrenciKayit.resources
+C:\Users\Funda\Documents\Visual Studio 2012\Projects\BBM487\BBM487\obj\Debug\BBM487.OgrenciNotGiris.resources
+C:\Users\Bahar\Desktop\BBM487\BBM487\bin\Debug\BBM487.exe.config
+C:\Users\Bahar\Desktop\bhr\lessons\6. dönem\yazılım müh lab\BBM487\BBM487\bin\Debug\BBM487.exe.config
